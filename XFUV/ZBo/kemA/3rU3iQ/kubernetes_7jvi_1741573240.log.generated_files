@@ -13,7 +13,6 @@
 #    file-prefix - a prefix match of the leaf filename (no path)
 #    paths-from-repo - read a file from the repo and load file paths
 #
-
 file-prefix	zz_generated.
 
 file-name	types.generated.go
