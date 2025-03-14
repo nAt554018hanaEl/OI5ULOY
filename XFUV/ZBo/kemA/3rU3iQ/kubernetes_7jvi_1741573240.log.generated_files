@@ -2,7 +2,6 @@
 # code.
 #
 # https://github.com/kubernetes/test-infra/blob/master/prow/plugins/size/size.go
-#
 # This file is a series of lines, each of the form:
 #     <type> <name>
 #
