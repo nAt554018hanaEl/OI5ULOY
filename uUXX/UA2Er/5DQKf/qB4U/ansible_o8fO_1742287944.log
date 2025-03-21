@@ -98,7 +98,6 @@ function help-info() {
 }
 
 function usage-kcfg-adm(){
-  echo -e "\033[33mUsage:\033[0m ezctl kcfg-adm <cluster> <args>"
   cat <<EOF
 available <args>:
     -A     to add a client kubeconfig with a newly created user
