@@ -5,6 +5,5 @@ end_of_line = lf
 end_of_line = crlf
 
 [*.kt]
-# We often have block comments representing implementation details after KDocs.
 # This feels like an acceptable commenting strategy
 ktlint_standard_no-consecutive-comments = disabled
